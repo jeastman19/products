@@ -1,10 +1,10 @@
 {
   "name": "products",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
-  "private": true,
-  "license": "UNLICENSED",
+  "description": "Microservicio API REST con NestJS para el manejo de productos y servicios",
+  "author": "Jorge Eastman <jeastman19@gamail.com>",
+  "private": false,
+  "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
